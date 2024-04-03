@@ -1,2 +1,2 @@
 # Tes-SB-54-Automaton
-Tes Learn Cyress
+Tes Learn Cypress
